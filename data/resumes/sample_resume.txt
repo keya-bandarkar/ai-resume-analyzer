@@ -1,0 +1,6 @@
+Keya Bandarkar
+Skills: Python, SQL, Machine Learning, Deep Learning, NLP, Tableau, Git, Flask
+
+Experience:
+- Worked on rice crop disease detection using ResNet50 and LightGBM.
+- Built text-to-sign language system (Echolens) using BERT and Flask.
