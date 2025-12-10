@@ -27,3 +27,10 @@ venv\Scripts\activate  # or source venv/bin/activate on Mac/Linux
 pip install -r requirements.txt
 
 python -m src.app
+
+### Gradio Web Interface
+
+Run the Gradio app using:
+
+```bash
+python app_gradio.py
